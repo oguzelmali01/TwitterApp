@@ -1,0 +1,6 @@
+oguz#mehmet,ali,taha
+ali#oguz
+mehmet#oguz
+furkan#taha
+taha#furkan,oguz
+deneme#
